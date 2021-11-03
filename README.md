@@ -1,4 +1,6 @@
-# opencore-for-mechrevo--X1
-# cpu:i7 7700HQ
-# the wifi network card only support dw1520
 # opencore ver 0.74
+# 为机械革命x1 定制
+# 不支持原装无线网卡 ，需要更换DW1560
+# 在博通DW1560下，wifi 蓝牙均正常，隔空投送可用
+# 不支持独立nvida显卡（fxxk you nvidia)
+# 外置HDMI 不可用，如果需要用到投影，或外界显示器，可用网络投屏或外接显卡
